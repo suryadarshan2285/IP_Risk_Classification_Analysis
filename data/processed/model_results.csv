@@ -1,0 +1,4 @@
+model,threshold,recall,precision,accuracy,true_negative,false_positive,false_negative,true_positive
+Baseline (always malicious),0.5,1.0,0.5,0.5,0,60,0,60
+Logistic Regression,0.3,0.95,0.83,0.88,48,12,3,57
+Random Forest,0.3,0.97,0.79,0.86,45,15,2,58

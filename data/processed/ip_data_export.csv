@@ -1,0 +1,597 @@
+ip,label,source_dataset,country,country_code,isp,org,asn,mobile,proxy,hosting
+182.92.202.149,1,abuseipdb_malicious,China,CN,Addresses CNNIC,"Aliyun Computing Co., LTD","AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",False,True,True
+20.84.73.110,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,False,False,True
+61.86.148.52,1,abuseipdb_malicious,Japan,JP,"Kintetsu Cable Network Co., Ltd.","Kintetsu Cable Network, Ltd","AS18081 Kintetsu Cable Network Co., Ltd.",False,False,False
+183.82.111.224,1,abuseipdb_malicious,India,IN,Atria Convergence Technologies Pvt. Ltd.,Beam Telecom Pvt Ltd,"AS18209 Atria Convergence Technologies Ltd.,",False,False,False
+31.173.114.194,1,abuseipdb_malicious,Russia,RU,MegaFon,OJSC MegaFon Chelyabinsk,AS29648 PJSC MegaFon,False,False,False
+172.86.81.51,1,abuseipdb_malicious,Singapore,SG,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC,False,False,True
+221.130.29.85,1,abuseipdb_malicious,China,CN,China Mobile communications corporation,China Mobile Communications Corporation,AS56046 China Mobile communications corporation,True,False,False
+170.233.71.236,1,abuseipdb_malicious,Argentina,AR,Netlatin S.R.L.,,AS264732 NETLATIN S.R.L.,False,False,False
+64.62.197.118,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",AS6939 Hurricane Electric LLC,False,False,True
+5.226.140.96,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,True
+3.85.51.81,1,abuseipdb_malicious,United States,US,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+101.32.15.141,1,abuseipdb_malicious,Hong Kong,HK,Shenzhen Tencent Computer Systems Company Limited,Tencent Cloud Computing,"AS132203 Tencent Building, Kejizhongyi Avenue",False,True,True
+170.106.72.93,1,abuseipdb_malicious,United States,US,Tencent Cloud Computing (Beijing) Co,,"AS132203 Tencent Building, Kejizhongyi Avenue",False,True,True
+43.247.250.115,1,abuseipdb_malicious,China,CN,China Unicom Beijing Province Network,Jylg,AS4808 China Unicom Beijing Province Network,False,False,False
+79.124.59.178,1,abuseipdb_malicious,Bulgaria,BG,Tamatiya EOOD,Tamatiya EOOD,AS50360 Tamatiya EOOD,False,False,False
+47.245.135.136,1,abuseipdb_malicious,Germany,DE,"Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,"AS45102 Alibaba (US) Technology Co., Ltd.",False,False,True
+181.65.211.141,1,abuseipdb_malicious,Peru,PE,Telefonica del Peru S.A.A.,INTEGRATEL PERÚ S.A.A,AS6147 INTEGRATEL PERÚ S.A.A.,False,False,False
+220.124.253.58,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,Kornet,AS4766 Korea Telecom,False,False,False
+8.209.88.128,1,abuseipdb_malicious,Germany,DE,Alibaba.com Singapore E-Commerce Private Limited,,"AS45102 Alibaba (US) Technology Co., Ltd.",False,False,True
+31.70.84.142,1,abuseipdb_malicious,Germany,DE,IONOS SE,IONOS SE,AS8560 IONOS SE,False,True,True
+101.96.230.94,1,abuseipdb_malicious,China,CN,"Beijing Volcano Engine Technology Co., Ltd.","Beijing Volcano Engine Technology Co., Ltd.","AS137718 Beijing Volcano Engine Technology Co., Ltd.",False,False,False
+125.21.59.218,1,abuseipdb_malicious,India,IN,BHARTI,Bharti Televentures Limited,AS9498 BHARTI Airtel Ltd.,True,False,False
+146.190.57.24,1,abuseipdb_malicious,United States,US,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,True,True
+213.74.119.218,1,abuseipdb_malicious,Türkiye,TR,Superonline Iletisim Hizmetleri A.S.,Superonline Iletisim Hizmetleri,AS34984 Superonline Iletisim Hizmetleri A.S.,False,False,False
+101.33.55.172,1,abuseipdb_malicious,Japan,JP,Shenzhen Tencent Computer Systems Company Limited,Acevillepteltd SG,"AS132203 Tencent Building, Kejizhongyi Avenue",False,False,True
+94.159.59.30,1,abuseipdb_malicious,Russia,RU,"""NetCom-R"" LLC",NetCom-R LLC,AS49531 NetCom-R LLC,False,False,False
+118.251.99.218,1,abuseipdb_malicious,China,CN,Chinanet,Chinanet HN,AS4134 CHINANET BACKBONE,False,False,False
+103.90.25.52,1,abuseipdb_malicious,Indonesia,ID,Arananetwork Infra Cyber CDC,,AS63497 PT. Arana Teknologi Indonesia,False,False,False
+66.132.186.131,1,abuseipdb_malicious,United States,US,"Censys, Inc.","Censys, Inc","AS398324 Censys, Inc.",False,False,True
+167.172.80.192,1,abuseipdb_malicious,Singapore,SG,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,False,True
+35.205.125.126,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+82.147.142.205,1,abuseipdb_malicious,Bulgaria,BG,A1 Bulgaria EAD,Orbitel customer and internal,AS8717 A1 Bulgaria EAD,False,False,False
+194.50.235.156,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,False
+35.242.134.252,1,abuseipdb_malicious,United Kingdom,GB,Google LLC,Google Cloud (europe-west2),AS396982 Google LLC,False,False,True
+66.132.224.228,1,abuseipdb_malicious,United States,US,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc.",False,False,True
+63.42.190.239,1,abuseipdb_malicious,United States,US,Verizon Business,Verizon Business,AS6167 Verizon Business,True,False,False
+62.60.130.253,1,abuseipdb_malicious,Iran,IR,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,AS215930 CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD,False,False,True
+62.60.130.242,1,abuseipdb_malicious,Iran,IR,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,AS215930 CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD,False,False,True
+54.82.58.124,1,abuseipdb_malicious,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+35.227.36.17,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,False,False,True
+194.50.235.147,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,False,False
+44.215.231.15,1,abuseipdb_malicious,United States,US,Amazon.com,AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+199.45.155.56,1,abuseipdb_malicious,Hong Kong,HK,"Censys, Inc.","Censys, Inc.","AS398722 Censys, Inc.",False,False,True
+34.26.122.102,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,False,False,True
+210.4.76.130,1,abuseipdb_malicious,Bangladesh,BD,BDCOM Online Limited,BDCOM Corporate DHCP,AS24122 BDCOM Online Limited,False,False,False
+66.132.172.149,1,abuseipdb_malicious,United States,US,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc.",False,False,True
+2.54.105.5,1,abuseipdb_malicious,Israel,IL,Partner Communications,,AS12400 Partner Communications Ltd.,True,False,False
+54.234.183.96,1,abuseipdb_malicious,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+119.249.100.107,1,abuseipdb_malicious,China,CN,China Unicom China169 Network,,AS4837 CHINA UNICOM China169 Backbone,True,True,False
+64.62.197.89,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",AS6939 Hurricane Electric LLC,False,False,True
+144.91.80.209,1,abuseipdb_malicious,France,FR,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,False,False,True
+118.37.214.187,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,Kornet,AS4766 Korea Telecom,False,False,False
+34.76.208.155,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+200.46.151.238,1,abuseipdb_malicious,Panama,PA,Cable Onda,Cable Onda,AS18809 Cable Onda,False,False,False
+34.53.164.96,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+54.167.96.173,1,abuseipdb_malicious,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+112.24.99.134,1,abuseipdb_malicious,China,CN,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd",AS56046 China Mobile communications corporation,True,False,False
+125.109.8.235,1,abuseipdb_malicious,China,CN,Chinanet,,AS4134 CHINANET BACKBONE,False,False,False
+107.174.137.235,1,abuseipdb_malicious,United States,US,HostPapa,RackNerd LLC,AS36352 HostPapa,False,True,True
+47.251.74.190,1,abuseipdb_malicious,United States,US,Alibaba Cloud LLC,Alibaba Cloud - US,"AS45102 Alibaba (US) Technology Co., Ltd.",False,False,True
+34.22.149.108,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+195.178.110.30,1,abuseipdb_malicious,Andorra,AD,Techoff SRV Limited,Techoff SRV Limited,AS48090 TECHOFF SRV LIMITED,False,False,True
+35.240.39.204,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+187.28.1.110,1,abuseipdb_malicious,Brazil,BR,Claro S.A,Fundação Affemg de Assistência e Saúde,AS4230 CLARO S.A.,False,False,False
+176.211.106.206,1,abuseipdb_malicious,Russia,RU,PJSC Rostelecom Russian Federation,Rostelecom,AS12389 PJSC Rostelecom,False,False,False
+122.194.9.147,1,abuseipdb_malicious,China,CN,CNC Group CHINA169 Jiangsu Province Network,,AS4837 CHINA UNICOM China169 Backbone,False,False,False
+112.216.120.67,1,abuseipdb_malicious,South Korea,KR,LG DACOM Corporation,Boranet,AS3786 LG DACOM Corporation,False,False,False
+27.131.55.226,1,abuseipdb_malicious,Malaysia,MY,MYKRIS,Mykris Asia SDN BHD,AS23678 Enterprise Managed Services Sdn. Bhd.,False,False,False
+34.158.94.198,1,abuseipdb_malicious,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+201.28.234.10,1,abuseipdb_malicious,Brazil,BR,Vivo,TELEF�NICA BRASIL S.A,AS10429 TELEFÔNICA BRASIL S.A,False,False,False
+101.53.149.246,1,abuseipdb_malicious,India,IN,E2E Networks Limited,E2E Networks Limited,AS132420 E2E NETWORKS,False,False,False
+69.5.169.147,1,abuseipdb_malicious,Germany,DE,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,False
+34.32.44.211,1,abuseipdb_malicious,Germany,DE,Google LLC,Google Cloud (europe-west10),AS396982 Google LLC,False,False,True
+62.201.228.210,1,abuseipdb_malicious,Iraq,IQ,NETWORKS-BAGHDAD5,,AS44217 IQ Networks for Data and Internet Services Ltd,False,False,False
+43.165.170.19,1,abuseipdb_malicious,Japan,JP,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd","AS132203 Tencent Building, Kejizhongyi Avenue",False,True,True
+211.240.117.71,1,abuseipdb_malicious,South Korea,KR,"ELIMNET, INC.",elimnet,"AS4663 ELIMNET, INC.",False,False,False
+49.124.151.27,1,abuseipdb_malicious,Malaysia,MY,"DiGi Telecommunications Sdn Bhd., Digi Internet Exchange",DiGi Telecommunications Sdn Bhd,AS4818 DiGi Telecommunications Sdn. Bhd.,False,False,False
+69.5.20.205,1,abuseipdb_malicious,Indonesia,ID,Byteplus Pte. Ltd.,Byteplus,AS150436 Byteplus Pte. Ltd.,False,False,False
+68.10.53.125,1,abuseipdb_malicious,United States,US,Cox Communications Inc.,Cox Communications Inc,AS22773 Cox Communications Inc.,False,False,False
+200.106.183.4,1,abuseipdb_malicious,Brazil,BR,Rodrigo Santinelli De Lima,Rodrigo Santinelli De Lima,AS271257 RODRIGO SANTINELLI DE LIMA,False,False,False
+79.124.56.222,1,abuseipdb_malicious,Bulgaria,BG,Tamatiya EOOD,Tamatiya EOOD,AS50360 Tamatiya EOOD,False,False,False
+118.193.45.65,1,abuseipdb_malicious,Hong Kong,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,True,True
+125.39.148.106,1,abuseipdb_malicious,China,CN,CNC Group CHINA169 Tianjin Province Network,"Tianjin Youji Science Technology Co., Ltd.",AS4837 CHINA UNICOM China169 Backbone,False,False,False
+181.113.114.61,1,abuseipdb_malicious,Ecuador,EC,Corporacion Nacional De Telecomunicaciones - CNT EP,Corporacion Nacional De Telecomunicaciones - CNT EP,AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP,False,False,False
+39.171.42.206,1,abuseipdb_malicious,China,CN,China Mobile Communications Corporation,"China Mobile Communications Group Co., Ltd",AS56041 China Mobile communications corporation,True,False,False
+165.154.36.71,1,abuseipdb_malicious,United States,US,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,False,True
+122.187.227.197,1,abuseipdb_malicious,India,IN,BHARTI,Bharti Telenet Ltd.,AS9498 BHARTI Airtel Ltd.,False,False,False
+156.225.1.87,1,abuseipdb_malicious,Hong Kong,HK,Agotoz Pte. LTD,Agotoz Pte. LTD,AS9465 AGOTOZ PTE. LTD.,False,False,False
+31.173.0.26,1,abuseipdb_malicious,Russia,RU,MegaFon,OJSC MegaFon,AS25159 PJSC MegaFon,True,False,False
+109.160.32.66,1,abuseipdb_malicious,United States,US,TechTies Inc.,GBTCloud,AS197170 TechTies Inc.,False,False,True
+197.220.92.185,1,abuseipdb_malicious,Somalia,SO,GICO,,AS37371 Hormuud Telecom Somalia INC,True,False,False
+193.163.125.38,1,abuseipdb_malicious,United Kingdom,GB,Driftnet Ltd,Constantine Cybersecurity LTD,AS211298 Driftnet Ltd,False,False,True
+85.239.149.72,1,abuseipdb_malicious,Germany,DE,Dedik Services Limited,Dedik Services Limited,AS207043 DEDIK SERVICES LIMITED,False,True,False
+220.124.254.98,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,Kornet,AS4766 Korea Telecom,False,False,False
+14.17.59.195,1,abuseipdb_malicious,China,CN,Chinanet,Chinanet GD,AS4134 CHINANET BACKBONE,False,False,False
+119.249.100.172,1,abuseipdb_malicious,China,CN,China Unicom China169 Network,,AS4837 CHINA UNICOM China169 Backbone,True,True,False
+160.22.240.235,1,abuseipdb_malicious,Indonesia,ID,PT Seeplus Media Transformasi,PT Seeplus Media Transformasi,AS152839 PT Seeplus Media Transformasi,False,False,False
+115.190.223.207,1,abuseipdb_malicious,China,CN,GWBN-WUHAN's IP,,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",False,False,False
+93.88.203.93,1,abuseipdb_malicious,Russia,RU,Delta Ltd,,AS213220 Delta Ltd,True,False,False
+157.66.219.144,1,abuseipdb_malicious,Vietnam,VN,ERACLOUD,Cloud Era LLC,AS135918 VIET DIGITAL TECHNOLOGY LIABILITY COMPANY,False,False,True
+65.49.1.240,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,False,False,True
+210.95.231.219,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,Kornet,AS4766 Korea Telecom,False,False,False
+14.53.251.99,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,Kornet,AS4766 Korea Telecom,False,False,False
+103.152.101.204,1,abuseipdb_malicious,Pakistan,PK,PLAY BROADBAND (PRIVATE) LIMITED,Homenet Private Limited,AS151330 PLAY BROADBAND (PRIVATE) LIMITED,False,False,False
+118.194.234.29,1,abuseipdb_malicious,Singapore,SG,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,False,True
+64.89.160.73,1,abuseipdb_malicious,Luxembourg,LU,Ghosty Networks LLC,,AS205759 Ghosty Networks LLC,False,True,True
+192.241.179.235,1,abuseipdb_malicious,United States,US,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,False,True
+52.21.227.35,1,abuseipdb_malicious,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+77.239.124.181,1,abuseipdb_malicious,France,FR,Banatsync SRL,RocketCloud,AS198364 BANATSYNC SRL,False,False,True
+57.128.223.80,1,abuseipdb_malicious,Poland,PL,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,False,False,True
+27.219.201.104,1,abuseipdb_malicious,China,CN,China Unicom Shandong Province Network,,AS4837 CHINA UNICOM China169 Backbone,False,False,False
+34.26.163.40,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,False,False,True
+188.187.56.155,1,abuseipdb_malicious,Russia,RU,"CJSC ""ER-Telecom Holding"" Saint-Petersburg branch","JSC ""ER-Telecom Holding"" Saint-Petersburg Branch",AS51570 JSC ER-Telecom Holding,False,False,False
+85.203.23.168,1,abuseipdb_malicious,Singapore,SG,GSL Networks Pty LTD,"VPN Consumer Singapore, Republic of Singapore",AS137409 GSL Networks Pty LTD,False,True,True
+190.253.74.57,1,abuseipdb_malicious,Colombia,CO,Colombia Telecomunicaciones S.a. ESP BIC,FELIPE.DELAVEGA,AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP BIC,False,False,False
+103.91.246.101,1,abuseipdb_malicious,India,IN,Yotta Network Services Private Limited,Yotta Network Services Private Limited,AS140641 YOTTA NETWORK SERVICES PRIVATE LIMITED,False,False,False
+64.62.197.49,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",AS6939 Hurricane Electric LLC,False,True,True
+206.189.37.207,1,abuseipdb_malicious,Singapore,SG,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,False,True
+66.132.186.212,1,abuseipdb_malicious,United States,US,"Censys, Inc.","Censys, Inc","AS398324 Censys, Inc.",False,False,True
+85.217.140.11,1,abuseipdb_malicious,France,FR,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+191.37.19.74,1,abuseipdb_malicious,Brazil,BR,RapeedoISP LTDA,RapeedoISP LTDA,AS263349 RapeedoISP LTDA,False,False,False
+115.190.235.23,1,abuseipdb_malicious,China,CN,GWBN-WUHAN's IP,,"AS137718 Beijing Volcano Engine Technology Co., Ltd.",False,False,False
+34.78.17.96,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+69.5.169.130,1,abuseipdb_malicious,Germany,DE,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,False
+184.105.247.215,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,False,False,True
+75.156.145.235,1,abuseipdb_malicious,Canada,CA,TELUS Communications Inc.,TELUS Communications Inc,AS852 TELUS Communications Inc.,False,False,False
+85.217.140.44,1,abuseipdb_malicious,France,FR,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+47.91.87.204,1,abuseipdb_malicious,Germany,DE,Alibaba.com LLC,ALICLOUD-GM,"AS45102 Alibaba (US) Technology Co., Ltd.",False,False,True
+98.186.18.107,1,abuseipdb_malicious,United States,US,"RapidScale, Inc",Cox Communications Inc,"AS63182 RapidScale, Inc",False,False,False
+211.106.133.202,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,,AS4766 Korea Telecom,False,False,False
+193.46.255.86,1,abuseipdb_malicious,United Kingdom,GB,Unmanaged LTD,Unmanaged LTD,AS47890 UNMANAGED LTD,False,True,True
+139.59.58.140,1,abuseipdb_malicious,India,IN,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,False,True
+35.200.216.167,1,abuseipdb_malicious,India,IN,Google LLC,Google Cloud (asia-south1),AS396982 Google LLC,False,False,True
+47.84.133.27,1,abuseipdb_malicious,Singapore,SG,Alibaba.com LLC,"Delta Centric LLC, Zenlayer Inc","AS45102 Alibaba (US) Technology Co., Ltd.",False,False,True
+185.190.143.236,1,abuseipdb_malicious,France,FR,Contabo GmbH,Contabo GmbH,AS51167 Contabo GmbH,False,False,True
+31.14.254.15,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,False
+178.128.101.234,1,abuseipdb_malicious,Singapore,SG,"DigitalOcean, LLC",Digitalocean,"AS14061 DigitalOcean, LLC",False,False,True
+34.122.129.20,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,False,False,True
+95.38.177.52,1,abuseipdb_malicious,Iran,IR,ABRARVAN,,AS202468 AbrArvan CDN and IaaS,False,False,False
+40.71.90.11,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,False,False,True
+34.97.248.15,1,abuseipdb_malicious,Japan,JP,Google LLC,Google Cloud (asia-northeast2),AS396982 Google LLC,False,False,True
+82.156.110.102,1,abuseipdb_malicious,China,CN,Shenzhen Tencent Computer Systems Company Limited,"Tencent Cloud Computing (Beijing) Co., Ltd",AS45090 Shenzhen Tencent Computer Systems Company Limited,False,False,True
+109.248.156.49,1,abuseipdb_malicious,Kazakhstan,KZ,Uplink LLC,Uplink LLC,AS8200 Uplink LLC,False,False,False
+34.7.34.123,1,abuseipdb_malicious,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+185.200.116.35,1,abuseipdb_malicious,Singapore,SG,M247 Europe SRL,M247 LTD,AS9009 M247 Europe SRL,False,True,True
+87.68.46.172,1,abuseipdb_malicious,Israel,IL,Partner Communications,,AS12400 Partner Communications Ltd.,False,False,True
+35.185.132.83,1,abuseipdb_malicious,Taiwan,TW,Google LLC,Google Cloud (asia-east1),AS396982 Google LLC,False,False,True
+103.90.25.243,1,abuseipdb_malicious,Indonesia,ID,Arananetwork Infra Cyber CDC,,AS63497 PT. Arana Teknologi Indonesia,False,False,False
+35.233.26.3,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+118.113.164.137,1,abuseipdb_malicious,China,CN,Chinanet,Chinanet SC,AS4134 CHINANET BACKBONE,False,False,False
+64.62.197.21,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",AS6939 Hurricane Electric LLC,False,False,True
+20.65.146.191,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation,False,False,True
+91.238.181.10,1,abuseipdb_malicious,France,FR,Datacenter location PAR1 France,ThinkTech Technology Industrial CO. Limited,AS49434 FBW NETWORKS SAS,False,False,True
+51.210.142.53,1,abuseipdb_malicious,France,FR,OVH SAS,OVH GmbH,AS16276 OVH SAS,False,False,True
+82.114.181.233,1,abuseipdb_malicious,Yemen,YE,Public Telecommunication Corporation,AS12486 annoucement YemenNet -Grp3,AS30873 Public Telecommunication Corporation,False,False,False
+103.20.219.5,1,abuseipdb_malicious,Indonesia,ID,Dinas Kominfo Kabupaten Humbang Hasundutan,,AS149968 Diskominfo Kabupaten Humbang Hasundutan,False,False,False
+200.46.212.206,1,abuseipdb_malicious,Panama,PA,Cable Onda,"Sinotex, S.A",AS18809 Cable Onda,False,False,False
+184.105.247.252,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,False,False,True
+35.187.17.208,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+179.48.18.42,1,abuseipdb_malicious,Brazil,BR,Marcos Raniell Pinheiro Oliveira,Marcos Raniell Pinheiro Oliveira,AS271065 Marcos Raniell Pinheiro Oliveira,False,False,False
+39.87.248.213,1,abuseipdb_malicious,China,CN,China Unicom Shandong Province Network,,AS4837 CHINA UNICOM China169 Backbone,False,False,False
+119.94.14.21,1,abuseipdb_malicious,Philippines,PH,Philippine Long Distance Telephone Co.,Philippine Long Distance Telephone Company,AS9299 Philippine Long Distance Telephone Company,False,False,False
+8.211.39.142,1,abuseipdb_malicious,Germany,DE,"Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,"AS45102 Alibaba (US) Technology Co., Ltd.",False,False,True
+54.38.52.18,1,abuseipdb_malicious,Poland,PL,OVH SAS,OVH Sp. z o. o,AS16276 OVH SAS,False,False,True
+20.81.45.106,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (eastus),AS8075 Microsoft Corporation,False,False,True
+128.90.141.6,1,abuseipdb_malicious,France,FR,"Powerhouse Management, Inc.","Unus, Inc.","AS22363 Powerhouse Management, Inc.",False,True,True
+85.217.140.28,1,abuseipdb_malicious,France,FR,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+119.249.100.240,1,abuseipdb_malicious,China,CN,China Unicom China169 Network,,AS4837 CHINA UNICOM China169 Backbone,True,False,False
+112.187.53.24,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,Kornet,AS4766 Korea Telecom,False,False,False
+174.138.24.129,1,abuseipdb_malicious,Singapore,SG,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,False,True
+119.205.156.243,1,abuseipdb_malicious,South Korea,KR,Korea Telecom,,AS4766 Korea Telecom,False,False,False
+182.71.132.139,1,abuseipdb_malicious,India,IN,Bharti Airtel Limited,Bharti Airtel,AS9498 BHARTI Airtel Ltd.,False,False,False
+159.224.213.138,1,abuseipdb_malicious,Ukraine,UA,Triolan,,AS13188 CONTENT DELIVERY NETWORK LTD,False,False,False
+18.214.238.178,1,abuseipdb_malicious,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+200.69.35.114,1,abuseipdb_malicious,Argentina,AR,Sion S.A,Sion S.A,AS10617 SION S.A,False,False,False
+213.209.159.228,1,abuseipdb_malicious,Germany,DE,Feo Prest SRL,Feo Prest SRL,AS208137 Feo Prest SRL,False,False,False
+118.193.36.205,1,abuseipdb_malicious,Hong Kong,HK,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,False,True
+85.217.140.43,1,abuseipdb_malicious,France,FR,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+78.128.114.174,1,abuseipdb_malicious,Bulgaria,BG,Tamatiya EOOD,Tamatiya EOOD,AS50360 Tamatiya EOOD,False,False,False
+66.132.172.207,1,abuseipdb_malicious,United States,US,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc.",False,False,True
+64.89.163.149,1,abuseipdb_malicious,Germany,DE,Netiface America,Meowcore Softworks LLC,"AS401626 Netiface America, Inc.",False,False,False
+186.138.104.97,1,abuseipdb_malicious,Argentina,AR,Telecom Argentina S.A,Fibertel,AS7303 Telecom Argentina S.A.,False,False,False
+64.62.156.62,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,False,False,True
+78.128.112.6,1,abuseipdb_malicious,Bulgaria,BG,noc@dotdash.host,4media,AS208637 4 Vendeta Ltd,False,False,True
+85.217.140.8,1,abuseipdb_malicious,France,FR,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+103.232.25.114,1,abuseipdb_malicious,India,IN,Yotta Network Services Private Limited,Yotta Network Services Private Limited,AS140641 YOTTA NETWORK SERVICES PRIVATE LIMITED,False,False,False
+207.219.221.101,1,abuseipdb_malicious,Canada,CA,TELUS Communications Inc.,TELUS Communications Inc,AS852 TELUS Communications Inc.,False,False,False
+34.32.126.249,1,abuseipdb_malicious,Germany,DE,Google LLC,Google Cloud (europe-west10),AS396982 Google LLC,False,False,True
+135.148.217.213,1,abuseipdb_malicious,United States,US,OVH SAS,Cyera,AS16276 OVH SAS,False,False,True
+65.49.1.38,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,False,False,True
+74.249.194.100,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,False,False,True
+62.60.130.201,1,abuseipdb_malicious,Iran,IR,Cipher Operations DOO Beograd - Novi Beograd,UAB Host Baltic,AS215930 CIPHER OPERATIONS DOO BEOGRAD - NOVI BEOGRAD,False,False,True
+103.28.38.126,1,abuseipdb_malicious,Vietnam,VN,NhanHoa Software Company,NHANHOA,AS131353 NhanHoa Software company,False,False,False
+100.59.187.139,1,abuseipdb_malicious,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,True,True
+206.189.145.121,1,abuseipdb_malicious,Singapore,SG,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,False,True
+103.59.163.135,1,abuseipdb_malicious,Myanmar,MM,Golden Dragon 2000 Company Limited,Dragon,AS150692 Golden Dragon 2000,False,True,False
+185.217.188.132,1,abuseipdb_malicious,Kazakhstan,KZ,Optinet LLP,Optinet LLP,AS60757 Optinet LLP,False,False,False
+203.99.56.136,1,abuseipdb_malicious,Pakistan,PK,Nayatel (Pvt) Ltd,Micronet,AS23674 Nayatel (Pvt) Ltd,False,False,False
+92.204.128.28,1,abuseipdb_malicious,United States,US,"GoDaddy.com, LLC",Host Europe GmbH,"AS398101 GoDaddy.com, LLC",False,True,True
+34.156.100.241,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+85.217.149.37,1,abuseipdb_malicious,Canada,CA,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+91.191.209.98,1,abuseipdb_malicious,Bulgaria,BG,L&L Investment Ltd.,L&L Investment Ltd,AS57509 L&L Investment Ltd.,False,True,True
+59.37.13.66,1,abuseipdb_malicious,China,CN,Chinanet,Zhongguodianxin,AS4134 CHINANET BACKBONE,False,False,False
+34.81.102.162,1,abuseipdb_malicious,Taiwan,TW,Google LLC,Google Cloud (asia-east1),AS396982 Google LLC,False,False,True
+88.249.10.161,1,abuseipdb_malicious,Türkiye,TR,Turk Telekomunikasyon A.S,TurkTelecom,AS9121 Turk Telekomunikasyon Anonim Sirketi,False,False,False
+122.187.230.137,1,abuseipdb_malicious,India,IN,BHARTI,Bharti Telenet Ltd.,AS9498 BHARTI Airtel Ltd.,False,False,False
+34.35.141.208,1,abuseipdb_malicious,South Africa,ZA,Google LLC,Google Cloud (africa-south1),AS396982 Google LLC,False,False,True
+31.208.81.75,1,abuseipdb_malicious,Sweden,SE,Bredband2 AB,Bredband2,AS29518 Bredband2 AB,False,False,False
+92.118.39.50,1,abuseipdb_malicious,United States,US,Unmanaged LTD,Pptechnology Limited,AS47890 UNMANAGED LTD,False,False,True
+79.124.62.178,1,abuseipdb_malicious,Seychelles,SC,DM AUTO EOOD,Internet Solutions & Innovations LTD,AS207812 DM AUTO EOOD,False,False,True
+85.217.140.20,1,abuseipdb_malicious,France,FR,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+64.62.156.200,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,False,False,True
+34.79.228.227,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+194.187.176.59,1,abuseipdb_malicious,Germany,DE,Alpha Strike Labs GmbH,,AS208843 Alpha Strike Labs GmbH,False,False,False
+85.217.149.54,1,abuseipdb_malicious,Canada,CA,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+43.160.255.142,1,abuseipdb_malicious,Singapore,SG,Aceville Pte.ltd,,"AS132203 Tencent Building, Kejizhongyi Avenue",False,True,True
+103.191.14.210,1,abuseipdb_malicious,Indonesia,ID,PT Aplikanusa Lintasarta,PT NAWASENA WASA ANUGERAH,AS38513 PT Aplikanusa Lintasarta,False,False,False
+74.207.243.62,1,abuseipdb_malicious,United States,US,"Akamai Technologies, Inc.",Linode,AS63949 Akamai Connected Cloud,False,False,True
+144.172.93.238,1,abuseipdb_malicious,United States,US,RouterHosting LLC,FranTech Solutions,AS14956 RouterHosting LLC,False,False,True
+43.241.37.251,1,abuseipdb_malicious,India,IN,Web Werks India Pvt. Ltd.,WEBWERKS,AS133296 Web Werks India Pvt. Ltd.,False,False,True
+32.216.229.57,1,abuseipdb_malicious,United States,US,Frontier Communications Solutions,LDSL-D Frontier Communications Wallingford - CT,AS46690 Verizon Business,False,False,False
+220.158.184.112,1,abuseipdb_malicious,India,IN,powergrid,Power Grid Corporation of India Limited,AS132215 Powergrid Teleservices Limited,False,False,False
+209.61.80.238,1,abuseipdb_malicious,Peru,PE,Nextnet S.A.C,Nextnet S.A.C,AS271814 NEXTNET SAC,False,False,False
+212.20.15.3,1,abuseipdb_malicious,Russia,RU,Rostelecom networks,Interregional Association,AS12389 PJSC Rostelecom,False,False,False
+222.124.1.243,1,abuseipdb_malicious,Indonesia,ID,PT. TELKOM INDONESIA,,AS7713 PT Telekomunikasi Indonesia,False,False,False
+78.94.185.253,1,abuseipdb_malicious,Germany,DE,Vodafone,Vodafone NRW GmbH,AS3209 Vodafone GmbH,False,False,False
+68.183.175.23,1,abuseipdb_malicious,United States,US,"DigitalOcean, LLC","DigitalOcean, LLC","AS14061 DigitalOcean, LLC",False,False,True
+135.220.48.17,1,abuseipdb_malicious,Germany,DE,Microsoft Corporation,Microsoft Azure Cloud (germanywestcentral),AS8075 Microsoft Corporation,False,False,False
+194.88.98.122,1,abuseipdb_malicious,Germany,DE,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,True
+199.7.163.33,1,abuseipdb_malicious,United States,US,"MacStadium, Inc.","MacStadium, Inc.","AS395336 MacStadium, Inc.",False,False,True
+64.62.156.107,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,The Shadow Server Foundation,AS6939 Hurricane Electric LLC,False,False,True
+109.195.50.100,1,abuseipdb_malicious,Russia,RU,"CJSC ""ER-Telecom Holding"" Voronezh branch","JSC ""ER-Telecom Holding"" Voronezh Branch",AS50542 JSC ER-Telecom Holding,False,False,False
+178.75.8.94,1,abuseipdb_malicious,Russia,RU,"JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Bryansk Branch",AS57044 JSC ER-Telecom Holding,False,False,False
+195.238.176.70,1,abuseipdb_malicious,Ukraine,UA,UNTC.NET,Ukrainian Newest Telecommunication Ltd.,AS41165 RPC HomeNet Ltd.,False,False,False
+193.47.62.69,1,abuseipdb_malicious,Andorra,AD,BestDC Limited,BestDC Limited,AS216014 BestDC Limited,False,True,False
+103.144.82.250,1,abuseipdb_malicious,Indonesia,ID,Diskominfo Balikpapan,,AS139422 Dinas Komunikasi dan Informatika Kota Balikpapan,False,False,False
+141.148.207.84,1,abuseipdb_malicious,India,IN,Oracle Corporation,Oracle Cloud Infrastructure (ap-mumbai-1),AS31898 Oracle Corporation,False,False,True
+104.196.42.0,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,False,False,True
+34.58.124.191,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,False,False,True
+196.41.46.194,1,abuseipdb_malicious,Tanzania,TZ,RAHA-LTZ,RAHA Ltd,AS30844 Liquid Telecommunications Ltd,False,False,False
+117.103.80.168,1,abuseipdb_malicious,Bangladesh,BD,IDS Bangladesh,,"AS38614 IDS Bangladesh. IP Transit provider. Dhaka, Bangladesh",False,False,False
+165.154.58.108,1,abuseipdb_malicious,Philippines,PH,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,False,True
+118.183.180.108,1,abuseipdb_malicious,China,CN,Chinanet,Chinanet GS,AS4134 CHINANET BACKBONE,False,False,False
+125.23.41.58,1,abuseipdb_malicious,India,IN,Bharti Airtel Limited,Bharti Airtel Limited,AS9498 BHARTI Airtel Ltd.,False,False,False
+34.141.181.16,1,abuseipdb_malicious,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+85.217.140.46,1,abuseipdb_malicious,France,FR,Modat B.V.,Modat B.V,AS209334 Modat B.V.,False,False,False
+188.240.59.55,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,True
+193.176.29.19,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,True
+20.118.249.228,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (centralus),AS8075 Microsoft Corporation,False,False,True
+34.156.201.169,1,abuseipdb_malicious,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+112.26.99.93,1,abuseipdb_malicious,China,CN,China Mobile communications corporation,"China Mobile Communications Group Co., Ltd","AS9808 China Mobile Communications Group Co., Ltd.",True,False,False
+24.162.105.27,1,abuseipdb_malicious,United States,US,Charter Communications Inc,Spectrum,AS11427 Charter Communications Inc,False,False,False
+69.5.169.132,1,abuseipdb_malicious,Germany,DE,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,False,False
+5.226.140.111,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,True
+5.226.140.108,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,True
+179.33.186.150,1,abuseipdb_malicious,Colombia,CO,Colombia Telecomunicaciones S.a. ESP BIC,Colombia Telecomunicaciones S.a. ESP BIC,AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP BIC,False,False,False
+40.119.24.65,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation,False,False,True
+96.78.175.36,1,abuseipdb_malicious,United States,US,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",False,False,False
+43.228.157.9,1,abuseipdb_malicious,Germany,DE,Gaditek Associates,,AS205759 Ghosty Networks LLC,False,True,True
+34.26.152.184,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,False,False,True
+102.220.161.84,1,abuseipdb_malicious,Slovenia,SI,VPS Dedicated LLC,,AS197769 VPS Dedicated LLC,False,False,True
+51.68.107.161,1,abuseipdb_malicious,France,FR,OVH SAS,OVH,AS16276 OVH SAS,False,False,True
+172.94.9.89,1,abuseipdb_malicious,United Kingdom,GB,Limited Network LTD,Secure Internet LLC,AS213790 Limited Network LTD,False,True,True
+103.87.175.110,1,abuseipdb_malicious,India,IN,Strad Hosting & Development Llp,Strad Hosting & Development Llp,AS146943 Tier 4 Cloud Services,False,False,True
+125.209.144.199,1,abuseipdb_malicious,Australia,AU,TPG Internet Pty Ltd,iiNet Limited,AS7545 TPG Telecom Limited,False,False,False
+34.158.161.251,1,abuseipdb_malicious,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+40.124.80.247,1,abuseipdb_malicious,United States,US,Microsoft Corporation,Microsoft Azure Cloud (southcentralus),AS8075 Microsoft Corporation,False,False,True
+66.132.172.147,1,abuseipdb_malicious,United States,US,"Censys, Inc.",Censys Inc,"AS398324 Censys, Inc.",False,False,True
+34.13.151.243,1,abuseipdb_malicious,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+200.25.16.78,1,abuseipdb_malicious,Brazil,BR,Edgeuno ID1848,Edgeuno ID1878,AS7195 EDGEUNO S.A.S,False,False,True
+213.166.84.37,1,abuseipdb_malicious,United Kingdom,GB,Hydra Communications Ltd,Infrawatch Limited,AS25369 Hydra Communications Ltd,False,True,True
+46.151.182.241,1,abuseipdb_malicious,Germany,DE,Ghosty Networks LLC,Ghosty Networks LLC,AS205759 Ghosty Networks LLC,False,True,True
+35.203.107.172,1,abuseipdb_malicious,Canada,CA,Google LLC,Google Cloud (northamerica-northeast1),AS396982 Google LLC,False,False,True
+123.253.162.254,1,abuseipdb_malicious,India,IN,INPL's,NIXI,AS45117 Ishan's Network,False,False,False
+64.62.197.64,1,abuseipdb_malicious,United States,US,Hurricane Electric LLC,"The Shadowserver Foundation, Inc",AS6939 Hurricane Electric LLC,False,True,True
+85.155.56.72,1,abuseipdb_malicious,Hungary,HU,Pick-Up Ltd.,Pickupnet,AS41627 Pick-Up Ltd.,False,False,False
+138.197.17.142,1,abuseipdb_malicious,United States,US,"DigitalOcean, LLC",Digital Ocean,"AS14061 DigitalOcean, LLC",False,True,True
+31.57.216.6,1,abuseipdb_malicious,Slovenia,SI,VPS Dedicated LLC,VPS Dedicated LLC,AS197769 VPS Dedicated LLC,False,False,True
+130.12.182.254,1,abuseipdb_malicious,Slovenia,SI,VPS Dedicated LLC,Netiface LLC,AS197769 VPS Dedicated LLC,False,True,True
+45.153.102.164,1,abuseipdb_malicious,Ireland,IE,HostRoyale Technologies Pvt Ltd,HostRoyale Technologies Pvt Ltd,AS203020 HostRoyale Technologies Pvt Ltd,False,True,True
+106.12.128.184,1,abuseipdb_malicious,China,CN,"Beijing Baidu Netcom Science and Technology Co., Ltd.","Beijing Baidu Netcom Science and Technology Co., Ltd.","AS38365 Beijing Baidu Netcom Science and Technology Co., Ltd.",False,False,True
+34.16.133.115,1,abuseipdb_malicious,United States,US,Google LLC,Google Cloud (us-west4),AS396982 Google LLC,False,False,True
+162.151.218.34,0,residential_isp,United States,US,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",False,False,False
+162.150.172.173,0,residential_isp,United States,US,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.245.191,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.44.51.26,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.255.105,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.145.217,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.46.40.115,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.185.154,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+24.99.152.10,0,residential_isp,United States,US,Comcast Cable Communications,"Comcast Cable Communications Holdings, Inc","AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.161.225,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.46.63.94,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.44.2.52,0,residential_isp,United States,US,AviationAI,Mauswerks LLC,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.46.116.90,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.247.209,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.47.6.179,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.46.251.167,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.47.4.242,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+50.73.104.29,0,residential_isp,United States,US,Comcast Cable Communications,JAT OF FORT WAYNE,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.46.83.102,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.247.135,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+205.234.162.174,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",MOD Mission Critical,"AS7922 Comcast Cable Communications, LLC",False,True,True
+48.47.118.74,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.46.244.104,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+68.61.151.46,0,residential_isp,United States,US,"Comcast Cable Communications, LLC","Comcast Cable Communications, Inc.","AS7922 Comcast Cable Communications, LLC",False,False,False
+198.0.72.212,0,residential_isp,United States,US,Comcast Cable Communications,Stcube Pharmaceuticals,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.217.95,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.45.42.124,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.47.168.121,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+48.46.177.201,0,residential_isp,United States,US,"Comcast Cable Communications, LLC",AviationAI,"AS7922 Comcast Cable Communications, LLC",False,False,False
+172.244.146.221,0,residential_isp,United States,US,"Comcast Cable Communications, LLC","Comcast Cable Communications, LLC","AS7922 Comcast Cable Communications, LLC",False,False,False
+48.47.48.237,0,residential_isp,United States,US,AviationAI,Mauswerks LLC,"AS7922 Comcast Cable Communications, LLC",False,False,False
+68.167.58.226,0,residential_isp,United States,US,Comcast Cable Communications,GTT Americas,"AS7922 Comcast Cable Communications, LLC",False,False,False
+23.132.180.140,0,residential_isp,United States,US,"AT&T Enterprises, LLC",NovaMatrix Global LLC,"AS7018 AT&T Enterprises, LLC",False,False,False
+99.10.124.234,0,residential_isp,United States,US,"AT&T Enterprises, LLC","AT&T Enterprises, LLC","AS7018 AT&T Enterprises, LLC",False,False,False
+198.46.39.83,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Sacramento Housing & Redevelopment Agency,"AS7018 AT&T Enterprises, LLC",False,False,False
+206.141.251.248,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Ameritech Electronic Commerce,"AS7018 AT&T Enterprises, LLC",False,False,False
+75.23.31.254,0,residential_isp,United States,US,"AT&T Enterprises, LLC",M & W INSURANCE,"AS7018 AT&T Enterprises, LLC",False,False,False
+12.131.125.116,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Tele-media Corporation,"AS7018 AT&T Enterprises, LLC",False,False,False
+72.157.21.62,0,residential_isp,United States,US,"AT&T Enterprises, LLC",EARS Loopback 1 - GSP,"AS7018 AT&T Enterprises, LLC",False,False,False
+32.246.28.196,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Attus Evpn-srl24,"AS7018 AT&T Enterprises, LLC",False,False,False
+99.132.65.26,0,residential_isp,United States,US,"AT&T Enterprises, LLC",AT&T Corp,"AS7018 AT&T Enterprises, LLC",False,False,False
+68.79.205.31,0,residential_isp,United States,US,"AT&T Enterprises, LLC",AT&T Corp,"AS7018 AT&T Enterprises, LLC",False,False,False
+75.45.224.75,0,residential_isp,United States,US,"AT&T Enterprises, LLC",pppox pool rback11.sfldmi,"AS7018 AT&T Enterprises, LLC",False,False,False
+216.148.184.241,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Capitol Financial Systems,"AS7018 AT&T Enterprises, LLC",False,False,False
+70.238.166.218,0,residential_isp,United States,US,"AT&T Enterprises, LLC",AT&T Corp,"AS7018 AT&T Enterprises, LLC",False,False,False
+107.225.11.113,0,residential_isp,United States,US,"AT&T Enterprises, LLC","AT&T Enterprises, LLC","AS7018 AT&T Enterprises, LLC",True,False,False
+70.159.160.138,0,residential_isp,United States,US,"AT&T Enterprises, LLC",EARS Loopback 1 - ATL,"AS7018 AT&T Enterprises, LLC",False,False,False
+199.20.61.118,0,residential_isp,United States,US,"AT&T Enterprises, LLC","The Ogilvy Group, Inc.","AS7018 AT&T Enterprises, LLC",False,False,False
+99.144.133.231,0,residential_isp,United States,US,"AT&T Enterprises, LLC",AT&T Corp,"AS7018 AT&T Enterprises, LLC",False,False,False
+107.225.42.253,0,residential_isp,United States,US,"AT&T Enterprises, LLC","AT&T Enterprises, LLC","AS7018 AT&T Enterprises, LLC",True,False,False
+99.105.253.75,0,residential_isp,United States,US,"AT&T Enterprises, LLC","AT&T Enterprises, LLC","AS7018 AT&T Enterprises, LLC",False,False,False
+147.1.47.126,0,residential_isp,United States,US,Bechtel Corporation,Bechtel Corporation,"AS7018 AT&T Enterprises, LLC",False,False,False
+66.159.176.243,0,residential_isp,United States,US,"AT&T Enterprises, LLC",AT&T Corp,"AS7018 AT&T Enterprises, LLC",False,False,False
+75.40.211.230,0,residential_isp,United States,US,"AT&T Enterprises, LLC",AT&T Corp,"AS7018 AT&T Enterprises, LLC",False,False,False
+172.85.113.15,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Privatel Inc,"AS7018 AT&T Enterprises, LLC",False,False,False
+107.225.11.161,0,residential_isp,United States,US,"AT&T Enterprises, LLC","AT&T Enterprises, LLC","AS7018 AT&T Enterprises, LLC",True,False,False
+204.238.234.153,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Sabine Parish School Board,"AS7018 AT&T Enterprises, LLC",False,False,False
+204.238.104.109,0,residential_isp,United States,US,"American Honda Motor Company, Inc.","Honda Performance Development, Inc.","AS6289 American Honda Motor Company, Inc.",False,False,False
+66.97.144.114,0,residential_isp,United States,US,"AT&T Enterprises, LLC",City of Dallas,"AS7018 AT&T Enterprises, LLC",False,False,False
+206.125.178.197,0,residential_isp,United States,US,"AT&T Enterprises, LLC",,"AS7018 AT&T Enterprises, LLC",False,False,False
+207.228.224.169,0,residential_isp,United States,US,"AT&T Enterprises, LLC",Rehkemper SON Inc.,"AS7018 AT&T Enterprises, LLC",False,False,True
+166.205.56.4,0,residential_isp,United States,US,"AT&T Enterprises, LLC","AT&T Services, Inc","AS7018 AT&T Enterprises, LLC",True,False,False
+147.1.47.134,0,residential_isp,United States,US,Bechtel Corporation,Bechtel Corporation,"AS7018 AT&T Enterprises, LLC",False,False,False
+99.48.57.166,0,residential_isp,United States,US,"AT&T Enterprises, LLC",AT&T Internet Services,"AS7018 AT&T Enterprises, LLC",False,False,False
+182.69.51.171,0,residential_isp,India,IN,Bharti Airtel,Bharti Airtel Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.165.251.60,0,residential_isp,India,IN,BHARTI,ABTS Tamilnadu,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.176.220.78,0,residential_isp,India,IN,Bharti Airtel,Bharti Telenet Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.168.115.113,0,residential_isp,India,IN,BHARTI,1 Malviya Nagar,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+27.62.116.188,0,residential_isp,India,IN,Bharti Airtel,Bharti Airtel Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",True,False,False
+171.49.240.190,0,residential_isp,India,IN,Bharti Airtel,Bharti Airtel Limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",True,False,False
+182.68.130.216,0,residential_isp,India,IN,Bharti Airtel,Bharti Telenet Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+106.205.35.117,0,residential_isp,India,IN,Bharti Airtel Limited,Airtel Tower,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.161.178.203,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.176.28.17,0,residential_isp,India,IN,Bharti Airtel,Bharti Telenet Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+223.185.142.68,0,residential_isp,India,IN,Bharti Airtel Limited,Bharti Airtel Limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.166.124.130,0,residential_isp,India,IN,Bharti Airtel Ltd.,BHARTI,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.160.95.170,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.169.100.141,0,residential_isp,India,IN,BHARTI,ABTS-MUMBAI,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+223.230.14.180,0,residential_isp,India,IN,Bharti Airtel Limited,Bharti Airtel Limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.160.77.108,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.180.241.216,0,residential_isp,India,IN,Bharti Airtel,Bharti Airtel Limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.160.232.97,0,residential_isp,India,IN,Bharti Airtel Limited,Anglo American,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+223.184.1.28,0,residential_isp,India,IN,Bharti Airtel,Bharti Cellular limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",True,False,False
+122.160.78.160,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+182.64.77.3,0,residential_isp,India,IN,Bharti Airtel,Bharti Telenet Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.161.48.246,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.160.251.195,0,residential_isp,India,IN,Bharti Airtel,Bharti Airtel Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.160.175.172,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.162.155.152,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+171.61.18.172,0,residential_isp,India,IN,Bharti Airtel Ltd,BHARTI,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+182.65.45.109,0,residential_isp,India,IN,Bharti Airtel,Bharti Airtel Limited,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.171.198.86,0,residential_isp,India,IN,BHARTI,ABTS (Karnataka),"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.176.34.27,0,residential_isp,India,IN,Bharti Airtel,Bharti Telenet Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.176.58.199,0,residential_isp,India,IN,Bharti Airtel,Bharti Telenet Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.176.19.50,0,residential_isp,India,IN,Bharti Airtel,Bharti Telenet Ltd.,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+122.160.164.139,0,residential_isp,India,IN,BHARTI,Abts Delhi,"AS24560 Bharti Airtel Ltd., Telemedia Services",False,False,False
+47.30.244.2,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+47.15.166.206,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+157.51.58.184,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+152.59.181.216,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+152.58.78.51,0,residential_isp,India,IN,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+49.36.205.153,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,RJIL North FTTX PUBLIC,AS55836 Reliance Jio Infocomm Limited,False,False,False
+104.65.70.201,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,"Akamai Technologies, Inc.",AS55836 Reliance Jio Infocomm Limited,True,False,True
+49.47.131.244,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Rjil Internet,AS55836 Reliance Jio Infocomm Limited,False,False,False
+152.58.63.32,0,residential_isp,India,IN,RELIANCEJIO,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+13.209.1.58,0,hosting_provider,South Korea,KR,"Amazon.com, Inc.",AWS EC2 Instance Connect (ap-northeast-2),"AS16509 Amazon.com, Inc.",False,False,True
+157.48.120.44,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+49.44.107.188,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Rjil Internet,AS55836 Reliance Jio Infocomm Limited,True,False,False
+49.44.113.172,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Rjil Internet,AS55836 Reliance Jio Infocomm Limited,True,False,False
+47.29.79.190,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+115.242.174.104,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,False,False,False
+157.33.57.234,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+137.97.80.247,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+49.42.233.87,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Rjil Internet,AS55836 Reliance Jio Infocomm Limited,True,False,False
+49.44.94.52,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Rjil Internet,AS55836 Reliance Jio Infocomm Limited,True,False,False
+115.242.3.229,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+152.58.106.222,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+136.233.124.134,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+157.50.175.19,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+136.232.79.212,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+157.46.166.254,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+47.11.227.112,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+49.43.131.102,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,False,False,False
+157.48.2.48,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+115.243.244.169,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+157.48.223.74,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio infocomm ltd,AS55836 Reliance Jio Infocomm Limited,True,False,False
+115.244.174.204,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,True,False,False
+115.247.65.190,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Communication Ltd,AS55836 Reliance Jio Infocomm Limited,False,False,False
+115.247.225.197,0,residential_isp,India,IN,Reliance Jio Infocomm Limited,Reliance Jio Infocomm Limited,AS55836 Reliance Jio Infocomm Limited,False,False,False
+64.252.109.13,0,hosting_provider,Australia,AU,"Amazon.com, Inc.",AWS CloudFront Origin Facing (GLOBAL),"AS16509 Amazon.com, Inc.",False,False,True
+99.77.130.202,0,hosting_provider,United States,US,"Amazon.com, Inc.",Amazon Chime Meetings (GLOBAL),"AS14618 Amazon.com, Inc.",False,False,True
+3.2.74.186,0,hosting_provider,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+52.94.232.107,0,hosting_provider,United States,US,"Amazon.com, Inc.",Amazon Technologies Inc. (us-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+3.2.122.35,0,hosting_provider,Australia,AU,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",False,False,True
+18.89.183.209,0,hosting_provider,United States,US,Amazon Technologies Inc.,AWS EC2 (us-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+23.228.228.42,0,hosting_provider,United States,US,Amazon.com,AWS EC2 (us-east-1),,False,False,True
+3.26.83.66,0,hosting_provider,Australia,AU,"Amazon.com, Inc.",AWS Route 53 Resolver (ap-southeast-2),"AS16509 Amazon.com, Inc.",False,False,True
+54.233.68.49,0,hosting_provider,Brazil,BR,Amazon Technologies Inc.,AWS EC2 (sa-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+18.99.177.101,0,hosting_provider,Hong Kong,HK,"Amazon.com, Inc.",Amazon Aurora DSQL (ap-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+216.198.247.230,0,hosting_provider,Germany,DE,"Amazon.com, Inc.",AWS EC2 (eu-central-1),"AS16509 Amazon.com, Inc.",False,False,False
+3.108.38.62,0,hosting_provider,India,IN,Amazon Technologies Inc.,AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",False,False,True
+52.94.16.239,0,hosting_provider,France,FR,"Amazon.com, Inc.",AWS DynamoDB (eu-west-3),"AS16509 Amazon.com, Inc.",False,False,True
+18.253.138.29,0,hosting_provider,United States,US,Amazon Data Services Ireland Ltd,AWS EC2 (us-gov-east-1),AS8987 Amazon Technologies Inc.,False,False,True
+15.222.43.33,0,hosting_provider,Canada,CA,"Amazon.com, Inc.",Amazon Technologies Inc. (ca-central-1),"AS16509 Amazon.com, Inc.",False,False,True
+15.225.16.12,0,hosting_provider,France,FR,Amazon.com,Amazon Technologies Inc. (eu-west-3),,False,False,False
+52.76.18.57,0,hosting_provider,Singapore,SG,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",False,False,True
+13.57.180.217,0,hosting_provider,United States,US,"Amazon.com, Inc.",AWS EC2 (us-west-1),"AS16509 Amazon.com, Inc.",False,False,True
+56.125.46.1,0,hosting_provider,Brazil,BR,"Amazon.com, Inc.",AWS CloudFront (sa-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+64.252.66.147,0,hosting_provider,United States,US,"Amazon.com, Inc.",AWS CloudFront Origin Facing (GLOBAL),"AS14618 Amazon.com, Inc.",False,False,True
+151.148.38.114,0,hosting_provider,Singapore,SG,"Amazon.com, Inc.",AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",False,False,False
+99.77.148.51,0,hosting_provider,South Africa,ZA,"Amazon.com, Inc.",Amazon Chime Meetings (GLOBAL),"AS14618 Amazon.com, Inc.",False,False,True
+3.5.130.69,0,hosting_provider,United States,US,Amazon Technologies Inc.,AWS EC2 (us-east-2),"AS16509 Amazon.com, Inc.",False,False,True
+18.99.193.88,0,hosting_provider,Australia,AU,"Amazon.com, Inc.",Amazon Aurora DSQL (ap-southeast-4),"AS16509 Amazon.com, Inc.",False,False,True
+15.230.163.78,0,hosting_provider,Singapore,SG,Amazon Technologies Inc.,Amazon Technologies Inc. (ap-southeast-1),,False,False,False
+13.127.70.149,0,hosting_provider,India,IN,"Amazon.com, Inc.",AWS Route 53 Resolver (ap-south-1),"AS16509 Amazon.com, Inc.",False,False,True
+16.206.114.130,0,hosting_provider,South Korea,KR,Amazon.com,Amazon Technologies Inc. (ap-northeast-2),,False,False,False
+150.222.101.57,0,hosting_provider,United States,US,Amazon Technologies Inc,Amazon Technologies Inc. (us-west-1),,False,False,True
+3.0.5.33,0,hosting_provider,Singapore,SG,"Amazon.com, Inc.",AWS EC2 Instance Connect (ap-southeast-1),"AS16509 Amazon.com, Inc.",False,False,True
+18.228.70.33,0,hosting_provider,Brazil,BR,Amazon Technologies Inc.,AWS EC2 (sa-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+3.5.248.205,0,hosting_provider,Italy,IT,Amazon Technologies Inc.,AWS EC2 (eu-south-1),"AS16509 Amazon.com, Inc.",False,False,True
+16.27.205.157,0,hosting_provider,Australia,AU,"Amazon.com, Inc.",AWS EC2 (ap-southeast-4),"AS16509 Amazon.com, Inc.",False,False,True
+103.53.50.62,0,hosting_provider,Hong Kong,HK,Twitch,Amazon IVS Real-Time Streaming (GLOBAL),,False,False,False
+52.219.19.107,0,hosting_provider,Japan,JP,"Amazon.com, Inc.",AWS S3 (ap-northeast-1),"AS16509 Amazon.com, Inc.",False,False,True
+3.33.134.167,0,hosting_provider,Canada,CA,"Amazon.com, Inc.",AWS Global Accelerator (GLOBAL),"AS16509 Amazon.com, Inc.",False,False,True
+71.131.196.253,0,hosting_provider,China,CN,Beijing Guanghuan Xinwang Digital,AWS S3 (cn-north-1),AS55960 Beijing Guanghuan Xinwang Digital,False,False,True
+51.0.28.69,0,hosting_provider,Germany,DE,"Amazon.com, Inc.",AWS DynamoDB (eusc-de-east-1),"AS16509 Amazon.com, Inc.",False,False,False
+3.173.184.186,0,hosting_provider,United Kingdom,GB,"Amazon.com, Inc.",AWS CloudFront (GLOBAL),"AS16509 Amazon.com, Inc.",False,False,True
+15.230.69.197,0,hosting_provider,Bahrain,BH,Amazon Technologies Inc,Amazon Technologies Inc. (me-south-1),,False,False,False
+13.214.188.237,0,hosting_provider,Singapore,SG,Amazon Technologies Inc.,AWS EC2 (ap-southeast-1),"AS16509 Amazon.com, Inc.",False,False,True
+13.248.54.37,0,hosting_provider,Hong Kong,HK,"Amazon.com, Inc.",Amazon Technologies Inc. (ap-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+15.181.202.204,0,hosting_provider,United States,US,Amazon Technologies Inc,AWS EC2 (us-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+13.38.202.70,0,hosting_provider,France,FR,"Amazon.com, Inc.",Amazon Technologies Inc. (eu-west-3),"AS16509 Amazon.com, Inc.",False,False,True
+150.222.112.129,0,hosting_provider,Australia,AU,Amazon Technologies Inc,Amazon Technologies Inc. (ap-southeast-2),,False,False,True
+56.68.33.60,0,hosting_provider,Malaysia,MY,"Amazon.com, Inc.",AWS Elemental MediaPackage v2 (ap-southeast-5),"AS16509 Amazon.com, Inc.",False,False,True
+15.181.246.121,0,hosting_provider,United States,US,"Amazon.com, Inc.",AWS EC2 (us-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+45.33.167.110,0,hosting_provider,United States,US,"Amazon.com, Inc.",Amazon Technologies Inc. (us-east-1),"AS16509 Amazon.com, Inc.",False,False,True
+99.77.136.117,0,hosting_provider,Germany,DE,"Amazon.com, Inc.",Amazon Chime Meetings (GLOBAL),"AS14618 Amazon.com, Inc.",False,False,True
+35.42.237.90,0,hosting_provider,Spain,ES,"Amazon.com, Inc.",AWS EC2 (eu-south-2),"AS16509 Amazon.com, Inc.",False,False,False
+99.83.97.145,0,hosting_provider,United States,US,"Amazon.com, Inc.",AWS Global Accelerator (us-west-1),"AS16509 Amazon.com, Inc.",False,False,True
+35.54.58.79,0,hosting_provider,India,IN,"Amazon.com, Inc.",AWS EC2 (ap-south-1),"AS16509 Amazon.com, Inc.",False,False,False
+173.83.218.202,0,hosting_provider,Japan,JP,Amazon.com Services,AWS EC2 (ap-northeast-3),"AS16509 Amazon.com, Inc.",False,False,False
+16.179.95.142,0,hosting_provider,Australia,AU,"Amazon.com, Inc.",AWS EC2 (ap-southeast-2),"AS16509 Amazon.com, Inc.",False,False,True
+3.2.97.27,0,hosting_provider,Switzerland,CH,"Amazon.com, Inc.",AWS EC2 (eu-central-2),"AS16509 Amazon.com, Inc.",False,False,True
+44.220.195.84,0,hosting_provider,United States,US,Amazon.com,AWS CloudFront (us-east-1),"AS14618 Amazon.com, Inc.",False,False,True
+34.0.248.149,0,hosting_provider,Poland,PL,Google Ireland Limited,Google Cloud (europe-central2),AS43515 Google Ireland Limited,False,False,True
+34.177.65.214,0,hosting_provider,Canada,CA,Google LLC,Google Cloud (northamerica-northeast2),AS396982 Google LLC,False,False,True
+34.87.168.226,0,hosting_provider,Singapore,SG,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,False,False,True
+34.152.98.212,0,hosting_provider,India,IN,Google LLC,Google Cloud (asia-south2),AS396982 Google LLC,False,False,True
+34.34.217.8,0,hosting_provider,Indonesia,ID,Google LLC,Google Cloud (asia-southeast2),AS396982 Google LLC,False,False,True
+35.220.27.25,0,hosting_provider,Hong Kong,HK,Google LLC,Google Cloud (asia-east2),AS396982 Google LLC,False,False,True
+34.183.76.214,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,False,False,True
+35.196.39.0,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,False,False,True
+34.183.0.119,0,hosting_provider,Italy,IT,Google LLC,Google Cloud (europe-west8),AS396982 Google LLC,False,False,True
+34.157.90.43,0,hosting_provider,Israel,IL,Google LLC,Google Cloud (me-west1),AS396982 Google LLC,False,False,True
+34.40.30.23,0,hosting_provider,Germany,DE,Google LLC,Google Cloud (europe-west3),AS396982 Google LLC,False,False,True
+34.104.27.41,0,hosting_provider,United States,US,Google LLC,Google Cloud,AS396982 Google LLC,False,False,True
+34.184.121.110,0,hosting_provider,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+34.3.33.172,0,hosting_provider,Thailand,TH,Google LLC,Google Cloud (asia-southeast3),AS19527 Google LLC,False,False,False
+34.152.101.32,0,hosting_provider,Australia,AU,Google LLC,Google Cloud (australia-southeast2),AS396982 Google LLC,False,False,True
+34.11.77.35,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-east4),AS396982 Google LLC,False,False,True
+34.183.74.77,0,hosting_provider,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+35.221.236.121,0,hosting_provider,Taiwan,TW,Google LLC,Google Cloud (asia-east1),AS396982 Google LLC,False,False,True
+34.124.59.13,0,hosting_provider,Australia,AU,Google LLC,Google Cloud (australia-southeast2),AS396982 Google LLC,False,False,True
+34.183.3.153,0,hosting_provider,Italy,IT,Google LLC,Google Cloud (europe-west12),AS396982 Google LLC,False,False,True
+34.127.178.10,0,hosting_provider,Chile,CL,Google LLC,Google Cloud (southamerica-west1),AS396982 Google LLC,False,False,True
+136.23.122.196,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-east4),AS396982 Google LLC,False,False,True
+34.177.113.45,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-west1),AS396982 Google LLC,False,False,True
+34.142.58.188,0,hosting_provider,United Kingdom,GB,Google LLC,Google Cloud (europe-west2),AS396982 Google LLC,False,False,True
+34.157.227.172,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-central1),AS396982 Google LLC,False,False,True
+34.157.36.63,0,hosting_provider,United Kingdom,GB,Google LLC,Google Cloud (europe-west2),AS396982 Google LLC,False,False,True
+35.201.226.9,0,hosting_provider,Taiwan,TW,Google LLC,Google Cloud (asia-east1),AS396982 Google LLC,False,False,True
+34.157.160.117,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-east5),AS396982 Google LLC,False,False,True
+34.104.103.170,0,hosting_provider,Finland,FI,Google LLC,Google Cloud (europe-north1),AS396982 Google LLC,False,False,True
+34.176.98.190,0,hosting_provider,Chile,CL,Google LLC,Google Cloud (southamerica-west1),AS396982 Google LLC,False,False,True
+8.235.191.80,0,hosting_provider,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+34.157.43.180,0,hosting_provider,United Kingdom,GB,Google LLC,Google Cloud (europe-west2),AS396982 Google LLC,False,False,True
+34.152.51.180,0,hosting_provider,Canada,CA,Google LLC,Google Cloud (northamerica-northeast1),AS396982 Google LLC,False,False,True
+34.47.66.224,0,hosting_provider,South Korea,KR,Google LLC,Google Cloud (asia-northeast3),AS396982 Google LLC,False,False,True
+34.49.245.59,0,hosting_provider,United States,US,Google LLC,Google Cloud,AS396982 Google LLC,False,False,True
+34.11.154.47,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-west1),AS396982 Google LLC,False,False,True
+34.184.89.90,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-east1),AS396982 Google LLC,False,False,True
+35.195.27.113,0,hosting_provider,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+34.183.72.202,0,hosting_provider,South Korea,KR,Google LLC,Google Cloud (asia-northeast3),AS396982 Google LLC,False,False,True
+35.190.193.107,0,hosting_provider,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+34.144.221.126,0,hosting_provider,United States,US,Google LLC,Google Cloud,AS396982 Google LLC,False,False,True
+34.0.250.167,0,hosting_provider,Poland,PL,Google Ireland Limited,Google Cloud (europe-central2),AS43515 Google Ireland Limited,False,False,True
+35.190.72.52,0,hosting_provider,United States,US,Google LLC,Google Cloud,AS396982 Google LLC,False,False,True
+34.158.93.163,0,hosting_provider,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+35.214.185.250,0,hosting_provider,Netherlands,NL,Google Ireland Limited,Google Cloud (europe-west4),AS43515 Google Ireland Limited,False,False,True
+35.229.169.49,0,hosting_provider,Taiwan,TW,Google LLC,Google Cloud (asia-east1),AS396982 Google LLC,False,False,True
+34.153.233.145,0,hosting_provider,Singapore,SG,Google LLC,Google Cloud (asia-southeast1),AS396982 Google LLC,False,False,True
+35.220.62.237,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-east4),AS396982 Google LLC,False,False,True
+34.124.62.62,0,hosting_provider,Netherlands,NL,Google LLC,Google Cloud (europe-west4),AS396982 Google LLC,False,False,True
+136.77.99.111,0,hosting_provider,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+34.153.62.140,0,hosting_provider,Israel,IL,Google LLC,Google Cloud (me-west1),AS396982 Google LLC,False,False,True
+8.231.61.46,0,hosting_provider,United States,US,Google LLC,Google Cloud (us-west1),AS396982 Google LLC,False,False,True
+34.137.148.29,0,hosting_provider,Taiwan,TW,Google LLC,Google Cloud (asia-east1),AS396982 Google LLC,False,False,True
+130.211.103.142,0,hosting_provider,Belgium,BE,Google LLC,Google Cloud (europe-west1),AS396982 Google LLC,False,False,True
+35.201.176.198,0,hosting_provider,Taiwan,TW,Google LLC,Google Cloud (asia-east1),AS396982 Google LLC,False,False,True
+34.127.190.92,0,hosting_provider,Japan,JP,Google LLC,Google Cloud (asia-northeast1),AS396982 Google LLC,False,False,True
+197.234.240.220,0,hosting_provider,South Africa,ZA,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+172.65.52.113,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+197.234.240.248,0,hosting_provider,South Africa,ZA,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+173.245.49.93,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+103.22.203.201,0,hosting_provider,Hong Kong,HK,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+198.41.137.186,0,hosting_provider,United States,US,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+197.234.243.65,0,hosting_provider,South Africa,ZA,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+172.64.151.66,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+172.69.133.103,0,hosting_provider,United States,US,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+131.0.74.52,0,hosting_provider,Costa Rica,CR,"Cloudflare, Inc.",CloudFlare Latin America S.R.L,"AS13335 Cloudflare, Inc.",False,False,True
+197.234.242.113,0,hosting_provider,South Africa,ZA,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+104.27.236.45,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+162.158.126.172,0,hosting_provider,Canada,CA,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+173.245.63.192,0,hosting_provider,United States,US,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+173.245.57.185,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+104.25.118.22,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+103.31.5.48,0,hosting_provider,Canada,CA,Cloudflare Sydney,"Cloudflare, Inc.",,False,False,True
+198.41.156.193,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+190.93.253.119,0,hosting_provider,Costa Rica,CR,"Cloudflare, Inc.",CloudFlare Latin America S.R.L,"AS13335 Cloudflare, Inc.",False,False,True
+108.162.223.101,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+131.0.72.96,0,hosting_provider,Costa Rica,CR,"Cloudflare, Inc.",CloudFlare Latin America S.R.L,"AS13335 Cloudflare, Inc.",False,False,True
+188.114.105.236,0,hosting_provider,United States,US,CLOUDFLARENET-EU,"CloudFlare, Inc.",,False,False,True
+198.41.226.81,0,hosting_provider,United Kingdom,GB,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+104.23.16.53,0,hosting_provider,United States,US,"Cloudflare, Inc.","Cloudflare, Inc.","AS132892 Cloudflare, Inc.",False,False,True
+173.245.61.244,0,hosting_provider,United States,US,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+103.22.201.237,0,hosting_provider,Japan,JP,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+108.162.217.124,0,hosting_provider,United States,US,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+190.93.249.122,0,hosting_provider,Costa Rica,CR,"Cloudflare, Inc.",CloudFlare Latin America S.R.L,"AS13335 Cloudflare, Inc.",False,False,True
+131.0.73.137,0,hosting_provider,Costa Rica,CR,"Cloudflare, Inc.",CloudFlare Latin America S.R.L,"AS13335 Cloudflare, Inc.",False,False,True
+108.162.201.168,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+198.41.172.54,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+104.16.221.101,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+104.21.52.134,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+162.158.217.67,0,hosting_provider,Switzerland,CH,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+190.93.252.91,0,hosting_provider,Costa Rica,CR,"Cloudflare, Inc.",CloudFlare Latin America S.R.L,"AS13335 Cloudflare, Inc.",False,False,True
+103.22.200.149,0,hosting_provider,Singapore,SG,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+162.159.3.62,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+103.21.244.149,0,hosting_provider,Canada,CA,CLOUDFLARE,"Cloudflare, inc.","AS13335 Cloudflare, Inc.",False,False,True
+198.41.205.19,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+103.21.245.199,0,hosting_provider,United States,US,CLOUDFLARE,"CloudFlare, inc.",,False,False,True
+108.162.210.192,0,hosting_provider,United States,US,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+103.31.5.201,0,hosting_provider,Canada,CA,Cloudflare Sydney,"Cloudflare, Inc.",,False,False,True
+103.21.245.187,0,hosting_provider,United States,US,CLOUDFLARE,"CloudFlare, inc.",,False,False,True
+188.114.100.153,0,hosting_provider,Italy,IT,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+172.64.113.36,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+173.245.50.242,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+190.93.249.210,0,hosting_provider,Costa Rica,CR,"Cloudflare, Inc.",CloudFlare Latin America S.R.L,"AS13335 Cloudflare, Inc.",False,False,True
+198.41.228.128,0,hosting_provider,Argentina,AR,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+172.68.27.185,0,hosting_provider,United States,US,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+162.159.97.94,0,hosting_provider,Hong Kong,HK,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+103.31.4.217,0,hosting_provider,United States,US,CLOUDFLARE,"Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+173.245.62.173,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+173.245.55.35,0,hosting_provider,Canada,CA,Cloudflare,"Cloudflare, Inc.",,False,False,True
+162.158.244.139,0,hosting_provider,United States,US,"Cloudflare, Inc.",Cloudflare WARP,"AS13335 Cloudflare, Inc.",False,True,False
+104.16.29.217,0,hosting_provider,Canada,CA,"Cloudflare, Inc.","Cloudflare, Inc.","AS13335 Cloudflare, Inc.",False,False,True
+2.57.122.53,1,abuseipdb_malicious,Netherlands,NL,Unmanaged LTD,Techoff SRV Limited,AS47890 UNMANAGED LTD,False,True,True
+45.148.10.141,1,abuseipdb_malicious,Netherlands,NL,Techoff SRV Limited,Techoff SRV Limited,AS48090 TECHOFF SRV LIMITED,False,True,True
+80.94.92.179,1,abuseipdb_malicious,Netherlands,NL,Unmanaged LTD,Techoff SRV Limited,AS47890 UNMANAGED LTD,False,False,True
+146.103.112.140,1,abuseipdb_malicious,Netherlands,NL,Servers Tech Fzco,Servers Tech Fzco,AS216071 SERVERS TECH FZCO,False,False,True
+185.213.175.37,1,abuseipdb_malicious,Netherlands,NL,NextGenWebs,,"AS41608 NextGenWebs, S.L.",False,False,True
+45.148.10.152,1,abuseipdb_malicious,Netherlands,NL,Techoff SRV Limited,Techoff SRV Limited,AS48090 TECHOFF SRV LIMITED,False,True,True
+185.93.89.21,1,abuseipdb_malicious,Netherlands,NL,Limited Network LTD,Limited Network LTD,AS213790 Limited Network LTD,False,False,True
+91.92.40.76,1,abuseipdb_malicious,Netherlands,NL,TechTies Inc.,TechTies Inc,AS197170 TechTies Inc.,False,True,False
+213.177.179.79,1,abuseipdb_malicious,Netherlands,NL,Feo Prest SRL,Feo Prest SRL,AS208137 Feo Prest SRL,False,False,False
+45.148.10.188,1,abuseipdb_malicious,Netherlands,NL,Techoff SRV Limited,Techoff SRV Limited,AS48090 TECHOFF SRV LIMITED,False,False,True
+80.94.92.234,1,abuseipdb_malicious,Netherlands,NL,Unmanaged LTD,Techoff SRV Limited,AS47890 UNMANAGED LTD,False,False,True
+45.148.10.157,1,abuseipdb_malicious,Netherlands,NL,Techoff SRV Limited,Techoff SRV Limited,AS48090 TECHOFF SRV LIMITED,False,True,True
+31.76.109.153,1,abuseipdb_malicious,Netherlands,NL,EdgeSec Technologies Limited,"Aurorix Networks, Amsterdam",AS216039 EdgeSec Technologies Limited,False,False,False
+45.148.10.151,1,abuseipdb_malicious,Netherlands,NL,Techoff SRV Limited,Techoff SRV Limited,AS48090 TECHOFF SRV LIMITED,False,True,True
+91.92.40.206,1,abuseipdb_malicious,Netherlands,NL,TechTies Inc.,TechTies Inc,AS197170 TechTies Inc.,False,True,False
+85.11.167.7,1,abuseipdb_malicious,Netherlands,NL,TechTies Inc.,TechTies Inc,AS197170 TechTies Inc.,False,False,False
+193.32.162.84,1,abuseipdb_malicious,Netherlands,NL,Unmanaged LTD,Techoff SRV Limited,AS47890 UNMANAGED LTD,False,True,True
+185.242.226.104,1,abuseipdb_malicious,Netherlands,NL,IP Volume inc,AI Spera,AS202425 IP Volume inc,False,False,False
+198.41.253.225,0,hosting_provider,Netherlands,NL,Cloudflare Inc,"Cloudflare, Inc.",AS202623 Cloudflare Inc,False,False,True

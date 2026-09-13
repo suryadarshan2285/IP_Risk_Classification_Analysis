@@ -1,0 +1,13 @@
+model,actual,predicted,count
+Baseline (always malicious),Benign,Benign,0
+Baseline (always malicious),Benign,Malicious,60
+Baseline (always malicious),Malicious,Benign,0
+Baseline (always malicious),Malicious,Malicious,60
+Logistic Regression,Benign,Benign,48
+Logistic Regression,Benign,Malicious,12
+Logistic Regression,Malicious,Benign,3
+Logistic Regression,Malicious,Malicious,57
+Random Forest,Benign,Benign,45
+Random Forest,Benign,Malicious,15
+Random Forest,Malicious,Benign,2
+Random Forest,Malicious,Malicious,58
